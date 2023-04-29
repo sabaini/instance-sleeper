@@ -1,0 +1,7 @@
+/src/instancesleeper.egg-info
+/instance-exceptions.txt
+/.idea
+/.tox
+build
+deb_dist
+dist
